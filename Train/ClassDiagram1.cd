@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Train.Trip">
+    <Position X="2.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARAACAAYAAAAAAAAgAAAAAAAAAAIAAwAAAApAAQBAA=</HashCode>
+      <FileName>Trip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Train.Ticket">
+    <Position X="6.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAEQAAABBAAAAAAAAAAAAAAAAAAAAgAAAAIAA=</HashCode>
+      <FileName>Ticket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Train.Passenger">
+    <Position X="4.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAEABAABAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAg=</HashCode>
+      <FileName>Passengers\Passenger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Train.Station">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAIAAAAAAAQAAAAEAAAAAAAAAgAAAAI=</HashCode>
+      <FileName>Station.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Train.Train">
+    <Position X="10" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAQAAAAAAAAAAAAEAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Train.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Train.TrainSeat">
+    <Position X="7.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAEAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>TrainSeats\TrainSeat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Train.UnderThreeYearsPassenger">
+    <Position X="4.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Passengers\UnderThreeYearsPassenger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Train.TouristSeat">
+    <Position X="6.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>TrainSeats\TouristSeat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Train.PullmanSeat">
+    <Position X="8.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>TrainSeats\PullmanSeat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Train.ExecutiveSeat">
+    <Position X="10.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>TrainSeats\ExecutiveSeat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Train.TrainSeatGenerator">
+    <Position X="1.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAABAAAAAAAAAAAAAAAACAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>TrainSeatGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Train.RailwayCompany">
+    <Position X="12.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QggCAAAIIAAACAAAAIAAAAAAAAIAUAAAIAAAAAAAAAA=</HashCode>
+      <FileName>RailwayCompany.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Train.Passengers.PassengerWithChildren" Collapsed="true">
+    <Position X="6.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Passengers\PassengerWithChildren.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

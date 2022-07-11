@@ -1,0 +1,6 @@
+C:\Users\germa\OneDrive\Documentos\German\UAI\Programacion orientada a objetos\Poo_ejercicio8\Train\bin\Debug\Train.dll
+C:\Users\germa\OneDrive\Documentos\German\UAI\Programacion orientada a objetos\Poo_ejercicio8\Train\bin\Debug\Train.pdb
+C:\Users\germa\OneDrive\Documentos\German\UAI\Programacion orientada a objetos\Poo_ejercicio8\Train\obj\Debug\Train.csproj.AssemblyReference.cache
+C:\Users\germa\OneDrive\Documentos\German\UAI\Programacion orientada a objetos\Poo_ejercicio8\Train\obj\Debug\Train.csproj.CoreCompileInputs.cache
+C:\Users\germa\OneDrive\Documentos\German\UAI\Programacion orientada a objetos\Poo_ejercicio8\Train\obj\Debug\Train.dll
+C:\Users\germa\OneDrive\Documentos\German\UAI\Programacion orientada a objetos\Poo_ejercicio8\Train\obj\Debug\Train.pdb
